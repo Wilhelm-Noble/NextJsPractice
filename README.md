@@ -3,6 +3,9 @@ notes to self,
 learn
 
 valtio
+radix
+rive
 asdf
-ubuntu/linux commands
+configured wsl
+ubuntu/linux commands check
 swr hook

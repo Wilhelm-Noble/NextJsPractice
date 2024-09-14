@@ -9,3 +9,6 @@ asdf
 configured wsl
 ubuntu/linux commands check
 swr hook
+
+
+practice codebase tomorrow

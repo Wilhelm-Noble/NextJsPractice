@@ -2,7 +2,7 @@ notes to self,
 
 learn
 
-valtio
+valtios
 radix
 rive
 asdf
@@ -12,3 +12,4 @@ swr hook
 
 
 practice codebase tomorrow
+wasnt able to practice, but well thats why its a weekend lol...

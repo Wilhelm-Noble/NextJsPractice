@@ -16,3 +16,4 @@ wasnt able to practice, but well thats why its a weekend lol...
 
 need to update stuff
 study the valtio already - done
+utilize obsidian

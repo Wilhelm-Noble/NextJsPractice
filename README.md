@@ -45,3 +45,15 @@ server
         -error.tx
 
 every code in the server will not be seem im the client side 
+
+benefits of server components
+ -loads faster
+ -secruity cuz its not being seen on the client 
+ -bundle size will be processed only in the server
+
+
+ so why not make all things server compoenets?
+
+ there is no interactivy in server components
+ evts will not be availabel there
+ can't use useEffect,useState and any hook

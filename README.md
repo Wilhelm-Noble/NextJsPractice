@@ -94,7 +94,7 @@ CSR - Client  Side Rendering
 
  this is a lot of how sites is used to makw back in the day
 
- build, all is made on the build side and their is barely any wervice run on the server and is mostly on the client
+ build, all is made on the build side and their is barely any service run on the server and is mostly on the client
 
 SSR - Server Side Rendering
   kinda same as CSR, but when you get a request on the server it will load all the HTML content before it gets sent to the client side, 

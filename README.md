@@ -113,3 +113,8 @@ ISR = Incremental Static Regeneration
     combines SSG with SSR, in which you will have faster load times since eveything is loaded and you will have dynamic content cuz of the server side rendering
 
     just means that some pages are SSG, and those who needs to be on SRR will be loaded ther
+
+
+
+
+sample

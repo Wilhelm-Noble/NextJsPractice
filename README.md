@@ -118,7 +118,3 @@ ISR = Incremental Static Regeneration
 We.re back to green washing, tomorrow we will finish a project
 bow we finihs one project this 
 
-pilit mo hanggang sa makuha mo
-we did good today, we learn a lot on exposure, and more on the go 
-
-you have a reputation to maintin, do more soon

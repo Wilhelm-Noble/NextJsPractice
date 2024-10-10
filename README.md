@@ -115,6 +115,4 @@ ISR = Incremental Static Regeneration
     just means that some pages are SSG, and those who needs to be on SRR will be loaded ther
 
 
-We.re back to green washing, tomorrow we will finish a project
-bow we finihs one project this 
 

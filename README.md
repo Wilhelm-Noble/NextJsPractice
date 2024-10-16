@@ -115,7 +115,7 @@ ISR = Incremental Static Regeneration
     just means that some pages are SSG, and those who needs to be on SRR will be loaded ther
 
 
-    PC broke need to set up VS code in weekends
+
 
 
 

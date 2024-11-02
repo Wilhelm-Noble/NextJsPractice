@@ -115,9 +115,6 @@ ISR = Incremental Static Regeneration
     just means that some pages are SSG, and those who needs to be on SRR will be loaded ther
 
 
-I'm back, will just ssort out everything here so that  Ican code on a daily basis agai
-I hate the cypress imopelementation that is pushed to me but then if  i can't make this project a successs then what more can i do to projects that are vital and core to the codebase?
-
 
 
 

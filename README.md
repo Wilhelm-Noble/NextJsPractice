@@ -115,6 +115,11 @@ ISR = Incremental Static Regeneration
     just means that some pages are SSG, and those who needs to be on SRR will be loaded ther
 
 
+Goals before this year ends 
+Study all of NextJs
+Study Node and Express with it and practice full stack apps 
+
+
 
 
 

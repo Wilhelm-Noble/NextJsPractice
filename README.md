@@ -116,7 +116,6 @@ ISR = Incremental Static Regeneration
 
 
 
-need to setup the stuff already 
-
+setup for new project since work from home
 
 
